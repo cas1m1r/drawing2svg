@@ -77,10 +77,10 @@ def usage():
 
 def main():
     real_image = ''
-    if TEST_IMG != '':
-        real_image = TEST_IMG
-    elif len(sys.argv) > 1:
+    if len(sys.argv) > 1:
         real_image = sys.argv[1]
+    elif TEST_IMG != '':
+        real_image = TEST_IMG
     else:
         usage()
     # Convert it
