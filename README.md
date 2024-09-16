@@ -8,7 +8,7 @@ python drawing2svg.py rick.jpg
 
 # Example Results: 
 Input 
-![given](https://raw.githubusercontent.com/cas1m1r/drawing2svg/main/rick.jpg)
+![given](https://raw.githubusercontent.com/cas1m1r/drawing2svg/main/rick.jpg?token=GHSAT0AAAAAACQBLRHUZZ65ZI4JF66GOHIGZXIOLPQ)
 
 Output
-![result](https://raw.githubusercontent.com/cas1m1r/drawing2svg/c8d595ab52b3cfd71aea7f4f3ed3bc54fb851ae1/result.svg)
+![result](https://raw.githubusercontent.com/cas1m1r/drawing2svg/b1286d62658cc557db8b5d98080fb12eeb3018d6/result.svg?token=AMCV4RE2SB7AOELS26CBRNTG5BZRY)
