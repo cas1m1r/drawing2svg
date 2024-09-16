@@ -7,8 +7,13 @@ python drawing2svg.py rick.jpg
 ```
 
 # Example Results: 
-Input 
+
+### Input 
 ![given](https://raw.githubusercontent.com/cas1m1r/drawing2svg/main/rick.jpg)
 
-Output
+### Output
 ![result](https://raw.githubusercontent.com/cas1m1r/drawing2svg/6948a69f497a0103609ed94c3aee48a9862d1bf1/result.svg)
+
+
+### Open the SVG images in an editor like GIMP and add color! 
+![colorized](https://raw.githubusercontent.com/cas1m1r/drawing2svg/main/colorizedRick.png)
